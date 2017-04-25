@@ -1,2 +1,2 @@
 contenu du fichier 1
-ajout d'une ligne
+ajout d'une ligne modification de cette ligne
